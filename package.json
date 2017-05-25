@@ -1,6 +1,6 @@
 {
-  "name": "malihu-custom-scrollbar-plugin",
-  "version": "3.1.5",
+  "name": "ardethian-custom-scrollbar-plugin",
+  "version": "3.1.6",
   "author": "malihu (http://manos.malihu.gr)",
   "description": "Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support user defined callbacks etc.",
   "license": "MIT",
@@ -8,10 +8,10 @@
   "main": "./jquery.mCustomScrollbar.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/malihu/malihu-custom-scrollbar-plugin.git"
+    "url": "https://github.com/Ardethian/malihu-custom-scrollbar-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/malihu/malihu-custom-scrollbar-plugin/issues"
+    "url": "https://github.com/Ardethian/malihu-custom-scrollbar-plugin/issues"
   },
   "keywords": [
     "jquery-plugin",
